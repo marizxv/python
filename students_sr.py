@@ -26,6 +26,7 @@ class Uczelnia2:
     nazwa = None
     rodzajUczelni = None
     glownyKierunek = None
+    yakasmNazva = None
     def __init__ (self, nazwa, rodzajUczelni, glownyKierunek):
         Uczelnia2.nazwa = nazwa
         Uczelnia2.rodzajUczelni = rodzajUczelni
@@ -45,8 +46,8 @@ class Student(Czlowiek, Uczelnia1, Uczelnia2):
         else:
             Uczelnia1.__init__(self, None, None, None, None)
         # Inicjalizacja klasy Uczelnia2
-        if len(uczelnia2) == 3:
-            Uczelnia2.__init__(self, uczelnia2[0], uczelnia2[1], uczelnia2[2])
+        if len(uczelnia2) == 4:
+            Uczelnia2.__init__(self, uczelnia2[0], uczelnia2[1], uczelnia2[2], uczelnia2[3])
         else:
             Uczelnia2.__init__(self, None, None, None)
 
@@ -68,8 +69,6 @@ class Student(Czlowiek, Uczelnia1, Uczelnia2):
         else:
             return Czlowiek.imie, uczelnia2
 
-
-
 # Tworzenie obiektu klasy Student
 student1 = Student(
     "Marek",
@@ -78,7 +77,8 @@ student1 = Student(
     "mężczyzna",
     "01234567890",
     ["Uniwersytet Śląski","Uniwersytet","Matematyka", ["Francja", "Niemcy"]],
-    ["Politechnika Łódzka","Politechnika","Inżynieria"]
+    ["Politechnika Łódzka","Politechnika","Inżynieria", "Ssdfsdfsdf"]
 )
 
+#Hello World!)
 print(student1.get_uczelnia())
