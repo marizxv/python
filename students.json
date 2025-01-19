@@ -1,0 +1,3557 @@
+[
+    {
+        "imie": "Tomasz",
+        "nazwisko": "Dudek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "04.03.2002",
+        "pesel": 5413006203,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            51,
+            57,
+            76,
+            60,
+            99,
+            86,
+            58,
+            58
+        ]
+    },
+    {
+        "imie": "Szymon",
+        "nazwisko": "Nowak",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "27.01.2000",
+        "pesel": 5808102136,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            92,
+            96,
+            91,
+            67,
+            67,
+            81,
+            63,
+            68
+        ]
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Nowak",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.03.2002",
+        "pesel": 2383371374,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            38,
+            87,
+            29,
+            53,
+            97,
+            67,
+            66,
+            49
+        ]
+    },
+    {
+        "imie": "Rafa\u0142",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.03.2001",
+        "pesel": 7438700952,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            72,
+            41,
+            86,
+            50,
+            72,
+            39,
+            94,
+            27,
+            48
+        ]
+    },
+    {
+        "imie": "\u0141ukasz",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "20.12.2002",
+        "pesel": 3698344998,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            63,
+            48,
+            90,
+            76,
+            39,
+            97,
+            39,
+            34,
+            58
+        ]
+    },
+    {
+        "imie": "Grzegorz",
+        "nazwisko": "Grabowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "19.05.2003",
+        "pesel": 6807905989,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            82,
+            75,
+            34,
+            65,
+            35,
+            33,
+            84,
+            57
+        ]
+    },
+    {
+        "imie": "Szymon",
+        "nazwisko": "Kowalczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "03.11.2005",
+        "pesel": 5570617186,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            33,
+            77,
+            63,
+            89,
+            95,
+            91,
+            38,
+            76
+        ]
+    },
+    {
+        "imie": "Emil",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "22.09.2000",
+        "pesel": 3365204640,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            75,
+            28,
+            52,
+            48,
+            55,
+            30,
+            54,
+            57,
+            61
+        ]
+    },
+    {
+        "imie": "Andrzej",
+        "nazwisko": "Lewandowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "01.11.2001",
+        "pesel": 6494504689,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            69,
+            62,
+            79,
+            80,
+            60,
+            37,
+            72,
+            97,
+            87
+        ]
+    },
+    {
+        "imie": "Pawe\u0142",
+        "nazwisko": "W\u00f3jcik",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "18.08.1999",
+        "pesel": 7626977498,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            85,
+            50,
+            55,
+            97,
+            42,
+            72,
+            35,
+            61,
+            38
+        ]
+    },
+    {
+        "imie": "Daniel",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "10.08.2002",
+        "pesel": 5318388675,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            88,
+            36,
+            43,
+            93,
+            89,
+            40,
+            50,
+            56
+        ]
+    },
+    {
+        "imie": "Kamil",
+        "nazwisko": "Kowalczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "21.04.2000",
+        "pesel": 1266386980,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            97,
+            79,
+            37,
+            69,
+            32,
+            49,
+            93,
+            29
+        ]
+    },
+    {
+        "imie": "Micha\u0142",
+        "nazwisko": "Kwiatkowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "08.03.2005",
+        "pesel": 3048005406,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            58,
+            61,
+            31,
+            91,
+            90,
+            91,
+            100,
+            94
+        ]
+    },
+    {
+        "imie": "Hubert",
+        "nazwisko": "Jab\u0142o\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "07.08.1999",
+        "pesel": 4640844840,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            42,
+            82,
+            66,
+            33,
+            79,
+            58,
+            80,
+            32
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "03.06.2004",
+        "pesel": 4083795238,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            58,
+            91,
+            34,
+            87,
+            33,
+            94,
+            67,
+            30,
+            59
+        ]
+    },
+    {
+        "imie": "Micha\u0142",
+        "nazwisko": "Zalewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.02.2003",
+        "pesel": 4470252709,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            37,
+            85,
+            35,
+            56,
+            34,
+            42,
+            40,
+            34
+        ]
+    },
+    {
+        "imie": "Dawid",
+        "nazwisko": "W\u00f3jcik",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "03.02.2005",
+        "pesel": 2285975123,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            72,
+            35,
+            92,
+            83,
+            64,
+            95,
+            78,
+            31
+        ]
+    },
+    {
+        "imie": "Jerzy",
+        "nazwisko": "Kwiatkowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "28.07.2002",
+        "pesel": 8113461211,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            42,
+            60,
+            98,
+            94,
+            31,
+            41,
+            57,
+            97,
+            34
+        ]
+    },
+    {
+        "imie": "\u0141ukasz",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.02.2001",
+        "pesel": 5540795638,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            29,
+            28,
+            81,
+            74,
+            26,
+            83,
+            70,
+            98,
+            61
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "02.05.1999",
+        "pesel": 6668780810,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            69,
+            41,
+            85,
+            40,
+            34,
+            33,
+            93,
+            45
+        ]
+    },
+    {
+        "imie": "Jakub",
+        "nazwisko": "Kr\u00f3l",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "19.06.2004",
+        "pesel": 1877512752,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            61,
+            67,
+            48,
+            32,
+            53,
+            87,
+            57,
+            59,
+            93
+        ]
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Wieczorek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "04.04.1999",
+        "pesel": 1895025118,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            34,
+            33,
+            68,
+            42,
+            53,
+            93,
+            69,
+            88
+        ]
+    },
+    {
+        "imie": "Krzysztof",
+        "nazwisko": "Zieli\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "27.07.2002",
+        "pesel": 2135807225,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            95,
+            28,
+            87,
+            66,
+            95,
+            92,
+            96,
+            95
+        ]
+    },
+    {
+        "imie": "Hubert",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "02.11.2001",
+        "pesel": 6653023767,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            48,
+            56,
+            82,
+            39,
+            96,
+            94,
+            75,
+            96,
+            83
+        ]
+    },
+    {
+        "imie": "Krzysztof",
+        "nazwisko": "Wieczorek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "07.09.2001",
+        "pesel": 6013685282,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            46,
+            69,
+            29,
+            73,
+            59,
+            26,
+            42,
+            51,
+            60
+        ]
+    },
+    {
+        "imie": "Micha\u0142",
+        "nazwisko": "Michalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "14.07.2000",
+        "pesel": 2198132079,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            85,
+            83,
+            29,
+            87,
+            61,
+            49,
+            35,
+            34,
+            33
+        ]
+    },
+    {
+        "imie": "Miko\u0142aj",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "15.01.2001",
+        "pesel": 9734332866,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            92,
+            30,
+            99,
+            26,
+            38,
+            97,
+            43,
+            80
+        ]
+    },
+    {
+        "imie": "Pawe\u0142",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "10.05.2003",
+        "pesel": 3439366110,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            90,
+            52,
+            30,
+            74,
+            90,
+            26,
+            87,
+            99,
+            99
+        ]
+    },
+    {
+        "imie": "Szymon",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.06.2005",
+        "pesel": 8264499712,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            25,
+            90,
+            47,
+            70,
+            58,
+            84,
+            63,
+            26,
+            58
+        ]
+    },
+    {
+        "imie": "Micha\u0142",
+        "nazwisko": "Grabowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "20.02.2000",
+        "pesel": 8108402247,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            72,
+            88,
+            84,
+            99,
+            44,
+            25,
+            85,
+            82,
+            31
+        ]
+    },
+    {
+        "imie": "Miko\u0142aj",
+        "nazwisko": "Zaj\u0105c",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "17.03.2001",
+        "pesel": 4456606929,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            61,
+            95,
+            38,
+            52,
+            81,
+            62,
+            77,
+            84
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Kowalczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "17.06.2003",
+        "pesel": 9886196020,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            83,
+            29,
+            52,
+            85,
+            43,
+            66,
+            34,
+            51,
+            81
+        ]
+    },
+    {
+        "imie": "Dawid",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.02.2000",
+        "pesel": 3449020646,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            41,
+            86,
+            31,
+            50,
+            39,
+            94,
+            33,
+            89
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "D\u0105browski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "07.06.2004",
+        "pesel": 2040267018,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            78,
+            77,
+            35,
+            99,
+            50,
+            25,
+            92,
+            35
+        ]
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Krawczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "18.11.2000",
+        "pesel": 4217488687,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            57,
+            56,
+            79,
+            98,
+            26,
+            52,
+            88,
+            79,
+            58
+        ]
+    },
+    {
+        "imie": "Maciej",
+        "nazwisko": "Grabowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "04.07.2001",
+        "pesel": 3764142640,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            62,
+            53,
+            57,
+            70,
+            86,
+            82,
+            70,
+            30,
+            75
+        ]
+    },
+    {
+        "imie": "Dominik",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "10.03.2004",
+        "pesel": 6238322238,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            72,
+            64,
+            91,
+            91,
+            77,
+            28,
+            70,
+            56,
+            83
+        ]
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "08.04.2000",
+        "pesel": 2158519582,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            65,
+            42,
+            70,
+            47,
+            28,
+            80,
+            72,
+            41,
+            75
+        ]
+    },
+    {
+        "imie": "Micha\u0142",
+        "nazwisko": "Zalewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "03.11.1999",
+        "pesel": 5285773686,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            63,
+            67,
+            83,
+            58,
+            33,
+            27,
+            88,
+            93,
+            95
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "06.05.2004",
+        "pesel": 4447256761,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            61,
+            86,
+            40,
+            31,
+            28,
+            56,
+            53,
+            61
+        ]
+    },
+    {
+        "imie": "Andrzej",
+        "nazwisko": "Zalewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "02.10.1999",
+        "pesel": 4979252711,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            94,
+            71,
+            87,
+            91,
+            85,
+            51,
+            31,
+            60
+        ]
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Wi\u015bniewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "08.12.2005",
+        "pesel": 8539854993,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            49,
+            37,
+            54,
+            25,
+            79,
+            67,
+            83,
+            53,
+            44
+        ]
+    },
+    {
+        "imie": "Tomasz",
+        "nazwisko": "Wi\u015bniewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.10.2000",
+        "pesel": 1017821918,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            44,
+            41,
+            36,
+            97,
+            95,
+            64,
+            59,
+            98,
+            29
+        ]
+    },
+    {
+        "imie": "Rafa\u0142",
+        "nazwisko": "Zaj\u0105c",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "16.07.2000",
+        "pesel": 1061239750,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            55,
+            53,
+            39,
+            82,
+            88,
+            44,
+            57,
+            61,
+            71
+        ]
+    },
+    {
+        "imie": "Grzegorz",
+        "nazwisko": "Wojciechowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.04.1999",
+        "pesel": 3250849009,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            42,
+            85,
+            94,
+            73,
+            87,
+            79,
+            89,
+            66
+        ]
+    },
+    {
+        "imie": "Damian",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "10.01.2002",
+        "pesel": 4709666927,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            69,
+            26,
+            65,
+            79,
+            74,
+            82,
+            98,
+            36,
+            61
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Kr\u00f3l",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "03.04.2005",
+        "pesel": 4431796576,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            66,
+            58,
+            97,
+            75,
+            39,
+            81,
+            26,
+            79
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Wieczorek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "02.11.1999",
+        "pesel": 6404398346,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            77,
+            62,
+            40,
+            44,
+            97,
+            56,
+            44,
+            94
+        ]
+    },
+    {
+        "imie": "Jerzy",
+        "nazwisko": "Michalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "25.07.2000",
+        "pesel": 1241806365,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            72,
+            31,
+            75,
+            85,
+            72,
+            45,
+            94,
+            93,
+            85
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Jab\u0142o\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "26.08.2003",
+        "pesel": 1910812943,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            75,
+            70,
+            34,
+            67,
+            38,
+            34,
+            58,
+            41,
+            30
+        ]
+    },
+    {
+        "imie": "Miko\u0142aj",
+        "nazwisko": "Wo\u017aniak",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.01.2003",
+        "pesel": 2879329935,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            58,
+            28,
+            90,
+            64,
+            37,
+            46,
+            86,
+            61,
+            93
+        ]
+    },
+    {
+        "imie": "Emil",
+        "nazwisko": "Wojciechowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.08.2000",
+        "pesel": 6441169974,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            36,
+            71,
+            97,
+            91,
+            52,
+            94,
+            88,
+            40,
+            58
+        ]
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "D\u0105browski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "14.03.2002",
+        "pesel": 4873306833,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            86,
+            30,
+            69,
+            26,
+            94,
+            93,
+            29,
+            97,
+            47
+        ]
+    },
+    {
+        "imie": "Emil",
+        "nazwisko": "Szyma\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "02.09.2005",
+        "pesel": 6973931197,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            100,
+            56,
+            95,
+            32,
+            83,
+            92,
+            70,
+            71,
+            78
+        ]
+    },
+    {
+        "imie": "Daniel",
+        "nazwisko": "Lewandowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "22.10.2004",
+        "pesel": 7925070171,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            70,
+            57,
+            46,
+            99,
+            99,
+            80,
+            42,
+            91,
+            45
+        ]
+    },
+    {
+        "imie": "Rafa\u0142",
+        "nazwisko": "Szyma\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "27.02.2003",
+        "pesel": 1912568850,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            96,
+            61,
+            76,
+            78,
+            96,
+            64,
+            92,
+            34
+        ]
+    },
+    {
+        "imie": "Bartosz",
+        "nazwisko": "Lewandowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "26.04.1999",
+        "pesel": 5555558552,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            48,
+            86,
+            53,
+            53,
+            29,
+            82,
+            77,
+            75,
+            26
+        ]
+    },
+    {
+        "imie": "Jerzy",
+        "nazwisko": "Krawczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.09.2000",
+        "pesel": 9052121810,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            29,
+            49,
+            84,
+            81,
+            65,
+            94,
+            35,
+            38,
+            99
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Dudek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.01.2004",
+        "pesel": 6635484369,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            40,
+            61,
+            46,
+            25,
+            55,
+            71,
+            51,
+            56
+        ]
+    },
+    {
+        "imie": "Bartosz",
+        "nazwisko": "Tomaszewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "04.05.2003",
+        "pesel": 3618165686,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            60,
+            84,
+            63,
+            49,
+            69,
+            96,
+            59,
+            68,
+            84
+        ]
+    },
+    {
+        "imie": "Maciej",
+        "nazwisko": "Piotrowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "27.05.2005",
+        "pesel": 8468961152,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            42,
+            89,
+            71,
+            35,
+            66,
+            36,
+            55,
+            99
+        ]
+    },
+    {
+        "imie": "Krzysztof",
+        "nazwisko": "Kowalczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "01.01.2003",
+        "pesel": 5959303252,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            27,
+            29,
+            44,
+            48,
+            56,
+            57,
+            25,
+            74,
+            84
+        ]
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Zieli\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "22.09.2000",
+        "pesel": 5352262588,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            67,
+            96,
+            67,
+            46,
+            42,
+            66,
+            29,
+            66
+        ]
+    },
+    {
+        "imie": "Pawe\u0142",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.12.2001",
+        "pesel": 8047163557,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            48,
+            90,
+            44,
+            94,
+            69,
+            98,
+            61,
+            96,
+            47
+        ]
+    },
+    {
+        "imie": "Dawid",
+        "nazwisko": "Zieli\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "21.09.2004",
+        "pesel": 2674280544,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            90,
+            56,
+            94,
+            78,
+            79,
+            99,
+            57,
+            95
+        ]
+    },
+    {
+        "imie": "Karol",
+        "nazwisko": "Kr\u00f3l",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "22.02.2003",
+        "pesel": 4467561776,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            37,
+            46,
+            75,
+            45,
+            39,
+            51,
+            59,
+            76
+        ]
+    },
+    {
+        "imie": "Bartosz",
+        "nazwisko": "Dudek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.12.2000",
+        "pesel": 2825323923,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            71,
+            63,
+            47,
+            80,
+            37,
+            57,
+            100,
+            42
+        ]
+    },
+    {
+        "imie": "Karol",
+        "nazwisko": "Wo\u017aniak",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.03.2000",
+        "pesel": 1170644350,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            94,
+            86,
+            65,
+            74,
+            41,
+            83,
+            64,
+            84,
+            57
+        ]
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "11.07.1999",
+        "pesel": 7315646827,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            57,
+            70,
+            29,
+            50,
+            98,
+            59,
+            33,
+            63,
+            31
+        ]
+    },
+    {
+        "imie": "Maciej",
+        "nazwisko": "Wi\u015bniewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "18.01.1999",
+        "pesel": 7136548060,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            69,
+            95,
+            59,
+            34,
+            95,
+            68,
+            67,
+            96
+        ]
+    },
+    {
+        "imie": "Emil",
+        "nazwisko": "Wi\u015bniewski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "11.07.2005",
+        "pesel": 8775449629,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            28,
+            36,
+            82,
+            90,
+            46,
+            87,
+            60,
+            68,
+            82
+        ]
+    },
+    {
+        "imie": "Emil",
+        "nazwisko": "Kr\u00f3l",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "19.06.2001",
+        "pesel": 7880214797,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            31,
+            80,
+            27,
+            54,
+            43,
+            32,
+            93,
+            53
+        ]
+    },
+    {
+        "imie": "Daniel",
+        "nazwisko": "Jab\u0142o\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "15.02.2003",
+        "pesel": 3095570228,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            94,
+            96,
+            54,
+            61,
+            79,
+            85,
+            78,
+            52,
+            30
+        ]
+    },
+    {
+        "imie": "Dominik",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "06.08.2004",
+        "pesel": 8393588853,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            38,
+            76,
+            88,
+            96,
+            25,
+            57,
+            84,
+            83,
+            36
+        ]
+    },
+    {
+        "imie": "Pawe\u0142",
+        "nazwisko": "Szyma\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "21.01.1999",
+        "pesel": 3451208921,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            36,
+            39,
+            96,
+            52,
+            71,
+            26,
+            37,
+            59,
+            26
+        ]
+    },
+    {
+        "imie": "Dominik",
+        "nazwisko": "Kowalczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "28.11.2003",
+        "pesel": 3465386938,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            42,
+            82,
+            64,
+            40,
+            44,
+            52,
+            79,
+            72,
+            84
+        ]
+    },
+    {
+        "imie": "Maciej",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.05.2000",
+        "pesel": 2057507518,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            94,
+            37,
+            38,
+            96,
+            93,
+            43,
+            50,
+            93
+        ]
+    },
+    {
+        "imie": "\u0141ukasz",
+        "nazwisko": "Michalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.08.2002",
+        "pesel": 3773501057,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            69,
+            84,
+            96,
+            43,
+            82,
+            93,
+            42,
+            90,
+            77
+        ]
+    },
+    {
+        "imie": "Marcin",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "27.12.2002",
+        "pesel": 2245678881,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            47,
+            51,
+            63,
+            25,
+            25,
+            77,
+            51,
+            43
+        ]
+    },
+    {
+        "imie": "Bartosz",
+        "nazwisko": "Koz\u0142owski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.02.2003",
+        "pesel": 2933686813,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            76,
+            39,
+            58,
+            97,
+            84,
+            45,
+            87,
+            74
+        ]
+    },
+    {
+        "imie": "Marcin",
+        "nazwisko": "Koz\u0142owski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "25.10.2004",
+        "pesel": 5636594457,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            45,
+            71,
+            72,
+            76,
+            33,
+            62,
+            97,
+            64,
+            32
+        ]
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "04.03.2005",
+        "pesel": 3402066300,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            44,
+            37,
+            49,
+            56,
+            32,
+            57,
+            67,
+            98,
+            83
+        ]
+    },
+    {
+        "imie": "Jan",
+        "nazwisko": "Kami\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "21.08.2001",
+        "pesel": 7540485300,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            79,
+            63,
+            50,
+            48,
+            53,
+            34,
+            38,
+            99,
+            99
+        ]
+    },
+    {
+        "imie": "Marcin",
+        "nazwisko": "Kr\u00f3l",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "17.10.2004",
+        "pesel": 5295291169,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            25,
+            50,
+            30,
+            38,
+            96,
+            65,
+            77,
+            91
+        ]
+    },
+    {
+        "imie": "Pawe\u0142",
+        "nazwisko": "Wieczorek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "23.12.1999",
+        "pesel": 6318382966,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            53,
+            43,
+            58,
+            88,
+            72,
+            79,
+            33,
+            87
+        ]
+    },
+    {
+        "imie": "Maciej",
+        "nazwisko": "Zaj\u0105c",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "16.05.2005",
+        "pesel": 1039087065,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            37,
+            79,
+            51,
+            77,
+            49,
+            65,
+            66,
+            67,
+            81
+        ]
+    },
+    {
+        "imie": "B\u0142a\u017cej",
+        "nazwisko": "Paj\u0105k",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "17.02.2000",
+        "pesel": 3913637894,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            74,
+            76,
+            67,
+            48,
+            100,
+            32,
+            98,
+            74,
+            90
+        ]
+    },
+    {
+        "imie": "Filip",
+        "nazwisko": "W\u00f3jcik",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "10.05.2000",
+        "pesel": 7973320903,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            32,
+            98,
+            92,
+            47,
+            87,
+            76,
+            38,
+            89
+        ]
+    },
+    {
+        "imie": "Dominik",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "20.04.2005",
+        "pesel": 7886046233,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            97,
+            42,
+            37,
+            78,
+            58,
+            71,
+            82,
+            95
+        ]
+    },
+    {
+        "imie": "Jakub",
+        "nazwisko": "Jab\u0142o\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.07.2002",
+        "pesel": 6297182297,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            77,
+            60,
+            83,
+            71,
+            90,
+            75,
+            58,
+            31
+        ]
+    },
+    {
+        "imie": "Damian",
+        "nazwisko": "Jab\u0142o\u0144ski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "13.06.2002",
+        "pesel": 7471931972,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            95,
+            38,
+            56,
+            58,
+            81,
+            28,
+            84,
+            59,
+            61
+        ]
+    },
+    {
+        "imie": "Jakub",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "24.06.2003",
+        "pesel": 6978027440,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            45,
+            63,
+            96,
+            90,
+            73,
+            55,
+            59,
+            25,
+            83
+        ]
+    },
+    {
+        "imie": "Tomasz",
+        "nazwisko": "Kowalski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "19.07.1999",
+        "pesel": 9355453672,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            59,
+            51,
+            60,
+            34,
+            93,
+            69,
+            76,
+            34,
+            94
+        ]
+    },
+    {
+        "imie": "Sebastian",
+        "nazwisko": "Lewandowski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "28.01.2003",
+        "pesel": 9120416972,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            48,
+            48,
+            66,
+            85,
+            39,
+            41,
+            52,
+            66,
+            70
+        ]
+    },
+    {
+        "imie": "Jakub",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "16.09.2003",
+        "pesel": 3080189828,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            29,
+            58,
+            87,
+            52,
+            51,
+            98,
+            87,
+            76
+        ]
+    },
+    {
+        "imie": "B\u0142a\u017cej",
+        "nazwisko": "Wieczorek",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "26.06.2005",
+        "pesel": 7977734589,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            44,
+            43,
+            80,
+            83,
+            41,
+            88,
+            76,
+            86
+        ]
+    },
+    {
+        "imie": "Grzegorz",
+        "nazwisko": "Adamczyk",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "16.01.2000",
+        "pesel": 9775977186,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            91,
+            73,
+            45,
+            89,
+            30,
+            84,
+            65,
+            45
+        ]
+    },
+    {
+        "imie": "Miko\u0142aj",
+        "nazwisko": "Mazur",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "21.10.2002",
+        "pesel": 9697850323,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            34,
+            83,
+            68,
+            57,
+            88,
+            50,
+            30,
+            99
+        ]
+    },
+    {
+        "imie": "B\u0142a\u017cej",
+        "nazwisko": "Paw\u0142owski",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "18.03.2000",
+        "pesel": 4904940074,
+        "university_type": "Uniwersytet",
+        "university_name": "Uniwersytet \u015al\u0105ski",
+        "university_glowny_kierunek": "Informatyka",
+        "university_kraje_wymiany": [
+            "Francja",
+            "Niemcy",
+            "Belgia"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Matematyka dyskretna",
+            "Analiza matematyczna",
+            "Geometria analityczna",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne"
+        ],
+        "progress": [
+            53,
+            87,
+            87,
+            26,
+            69,
+            92,
+            29,
+            46
+        ]
+    },
+    {
+        "imie": "Dominik",
+        "nazwisko": "W\u00f3jcik",
+        "plec": "m\u0119\u017cczyzna",
+        "data_urodzenia": "12.09.2002",
+        "pesel": 1798523513,
+        "university_type": "Uniwersytet",
+        "university_name": "Politechnika \u0141\u00f3dzka",
+        "university_glowny_kierunek": "Matematyka",
+        "university_kraje_wymiany": [
+            "Estonia",
+            "Austria"
+        ],
+        "university_subjects": [
+            "Matematyka",
+            "Informatyka",
+            "Programowanie",
+            "Logika",
+            "Systemy operacyjne",
+            "J\u0119zyk angielski",
+            "Filozofia",
+            "Religia",
+            "Gospodarka"
+        ],
+        "progress": [
+            98,
+            76,
+            75,
+            91,
+            33,
+            74,
+            29,
+            65,
+            29
+        ]
+    }
+]

@@ -1,84 +1,95 @@
+import json
+
 class Czlowiek:
     imie = None
     nazwisko = None
     dataUrodzenia = None
     plec = None
     pesel = None
-    def __init__(self, imie, nazwisko, dataUrodzenia, plec, pesel):
+    def __init__(self, imie, nazwisko, data_urodzenia, plec, pesel):
         Czlowiek.imie = imie
         Czlowiek.nazwisko = nazwisko
-        Czlowiek.dataUrodzenia = dataUrodzenia
+        Czlowiek.data_urodzenia = data_urodzenia
         Czlowiek.plec = plec
         Czlowiek.pesel = pesel
 
 class Uczelnia1:
-    nazwa = None
-    rodzajUczelni = None
-    glownyKierunek = None
-    krajeWymianyStudentow = None
-    def __init__(self, nazwa, rodzajUczelni, glownyKierunek, krajeWymianyStudentow):
-        Uczelnia1.nazwa = nazwa
-        Uczelnia1.rodzajUczelni = rodzajUczelni
-        Uczelnia1.glownyKierunek = glownyKierunek
-        Uczelnia1.krajeWymianyStudentow = krajeWymianyStudentow
+    nazwa = "Uniwersytet Śląski"
+    rodzaj_uczelni = None
+    glowny_kierunek = None
+    przedmioty = []
+    odna_nazva = None
+    def __init__(self, rodzaj_uczelni, glowny_kierunek, przedmioty, odna_nazva):
+        Uczelnia1.rodzaj_uczelni = rodzaj_uczelni
+        Uczelnia1.glowny_kierunek = glowny_kierunek
+        Uczelnia1.przedmioty = przedmioty
+        Uczelnia1.odna_nazva = odna_nazva
 
 class Uczelnia2:
-    nazwa = None
-    rodzajUczelni = None
-    glownyKierunek = None
-    yakasmNazva = None
-    def __init__ (self, nazwa, rodzajUczelni, glownyKierunek):
-        Uczelnia2.nazwa = nazwa
-        Uczelnia2.rodzajUczelni = rodzajUczelni
-        Uczelnia2.glownyKierunek = glownyKierunek
+    nazwa = "Politechnika Łódzka"
+    rodzaj_uczelni = None
+    glowny_kierunek = None
+    przedmioty = []
+    insha_nazva = None
+    def __init__ (self, rodzaj_uczelni, glowny_kierunek, przedmioty, insha_nazva):
+        Uczelnia2.rodzaj_uczelni = rodzaj_uczelni
+        Uczelnia2.glowny_kierunek = glowny_kierunek
+        Uczelnia2.przedmioty = przedmioty
+        Uczelnia2.insha_nazva = insha_nazva
 
 class Student(Czlowiek, Uczelnia1, Uczelnia2):
-    def __init__(self, imie, nazwisko, dataUrodzenia, plec, pesel, uczelnia1=None, uczelnia2=None):
+    postep = {}
+    def __init__(self, imie, nazwisko, data_urodzenia, plec, pesel, uczelnia, postep = None):
         # Inicjalizacja klasy Czlowiek
-        Czlowiek.__init__(self, imie, nazwisko, dataUrodzenia, plec, pesel)
-        # Inicjalizacja klasy Uczelnia1
-        if uczelnia2 is None:
-            uczelnia2 = []
-        if uczelnia1 is None:
-            uczelnia1 = []
-        if len(uczelnia1) == 4:
-            Uczelnia1.__init__(self, uczelnia1[0], uczelnia1[1], uczelnia1[2], uczelnia1[3])
+        Czlowiek.__init__(self, imie, nazwisko, data_urodzenia, plec, pesel)
+
+        if len(uczelnia) == 2:
+            Uczelnia1.__init__(self, uczelnia[0][1], uczelnia[0][2], uczelnia[0][3], 'test1')
+            Uczelnia2.__init__(self, uczelnia[1][1], uczelnia[1][2], uczelnia[1][3], 'test2')
+        elif uczelnia[0] == Uczelnia1.nazwa:
+            Uczelnia1.__init__(self, uczelnia[1], uczelnia[2], uczelnia[3], 'test1')
+            Uczelnia2.__init__(self, None, None, [], None)
+        elif uczelnia[0] == Uczelnia2.nazwa:
+            Uczelnia1.__init__(self, None, None, [], None)
+            Uczelnia2.__init__(self, uczelnia[1], uczelnia[2], uczelnia[3], 'test2')
+
+        if len(Uczelnia1.przedmioty) > 0 and len(Uczelnia2.przedmioty) > 0:
+            Student.set_postep(self, Uczelnia1, postep[0])
+            Student.set_postep(self, Uczelnia2, postep[1])
+        elif len(Uczelnia1.przedmioty) > 0:
+            Student.set_postep(self, Uczelnia1, postep)
+            Student.postep.pop(Uczelnia2.nazwa, None)
+        elif len(Uczelnia2.przedmioty) > 0:
+            Student.set_postep(self, Uczelnia2, postep)
+            Student.postep.pop(Uczelnia1.nazwa, None)
         else:
-            Uczelnia1.__init__(self, None, None, None, None)
-        # Inicjalizacja klasy Uczelnia2
-        if len(uczelnia2) == 4:
-            Uczelnia2.__init__(self, uczelnia2[0], uczelnia2[1], uczelnia2[2], uczelnia2[3])
-        else:
-            Uczelnia2.__init__(self, None, None, None)
+            Student.postep.pop(Uczelnia1.nazwa, None)
+            Student.postep.pop(Uczelnia2.nazwa, None)
 
-    def get_ucz1(self):
-        return Uczelnia1.nazwa, Uczelnia1.rodzajUczelni, Uczelnia1.glownyKierunek, Uczelnia1.krajeWymianyStudentow
+    def set_postep(self, Uczelnia, postep):
+        Student.postep[Uczelnia.nazwa] = []
+        for index, przedmiot in enumerate(Uczelnia.przedmioty):
+            Student.postep[Uczelnia.nazwa].append({przedmiot: postep[index]})
+    def get_postep(self):
+        return Student.postep
 
-    def get_ucz2(self):
-        return Uczelnia2.nazwa, Uczelnia2.rodzajUczelni, Uczelnia2.glownyKierunek
 
-    def get_uczelnia(self):
-        uczelnia1 = self.get_ucz1()
-        uczelnia2 = self.get_ucz2()
-        # print(uczelnia1, uczelnia2)
-        # print(uczelnia1[0], uczelnia2[0])
-        if uczelnia1[0] and uczelnia2[0]:
-            return Czlowiek.imie, uczelnia1, uczelnia2
-        elif  uczelnia1[0]:
-            return Czlowiek.imie, uczelnia1
-        else:
-            return Czlowiek.imie, uczelnia2
+# opening JSON file
+students_data_json = open('students.json')
+# returns JSON object as a list
+students_data = json.load(students_data_json)
+# closing JSON file
+students_data_json.close()
 
-# Tworzenie obiektu klasy Student
-student1 = Student(
-    "Marek",
-    "Tomaszewski",
-    "1988-12-12",
-    "mężczyzna",
-    "01234567890",
-    ["Uniwersytet Śląski","Uniwersytet","Matematyka", ["Francja", "Niemcy"]],
-    ["Politechnika Łódzka","Politechnika","Inżynieria", "Ssdfsdfsdf"]
-)
+for student_info in students_data:
+    student = Student(
+        student_info["imie"],
+        student_info["nazwisko"],
+        student_info["data_urodzenia"],
+        student_info["plec"],
+        student_info["pesel"],
+        [student_info["university_name"], student_info["university_type"], student_info["university_glowny_kierunek"], student_info["university_subjects"]],
+        student_info["progress"]
+    )
+    print(student.imie, student.nazwisko, student.get_postep())
 
-#Hello World!)
-print(student1.get_uczelnia())
