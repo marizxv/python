@@ -1,0 +1,1307 @@
+{
+    "samochody_osobowe": [
+        {
+            "ID": 110616514,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 1991,
+            "data_przegl\u0105du": "1995-05-23"
+        },
+        {
+            "ID": 801021712,
+            "producer": "Toyota",
+            "model": "SUV",
+            "rok_produkcji": 1994,
+            "data_przegl\u0105du": "2015-08-06"
+        },
+        {
+            "ID": 953663684,
+            "producer": "Hyundai",
+            "model": "SUV",
+            "rok_produkcji": 2000,
+            "data_przegl\u0105du": "2015-12-15"
+        },
+        {
+            "ID": 550021187,
+            "producer": "Honda",
+            "model": "luks",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2007-01-17"
+        },
+        {
+            "ID": 902191542,
+            "producer": "Chevrolet",
+            "model": "sport",
+            "rok_produkcji": 1994,
+            "data_przegl\u0105du": "2014-09-23"
+        },
+        {
+            "ID": 294039374,
+            "producer": "BMW",
+            "model": "sport",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2022-03-22"
+        },
+        {
+            "ID": 985435043,
+            "producer": "Ford",
+            "model": "elektryczny",
+            "rok_produkcji": 2020,
+            "data_przegl\u0105du": "2024-12-04"
+        },
+        {
+            "ID": 423392608,
+            "producer": "Honda",
+            "model": "sport",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2020-01-12"
+        },
+        {
+            "ID": 153109813,
+            "producer": "Ford",
+            "model": "sport",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2021-03-18"
+        },
+        {
+            "ID": 300965752,
+            "producer": "Honda",
+            "model": "luks",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2013-01-12"
+        },
+        {
+            "ID": 932271839,
+            "producer": "Hyundai",
+            "model": "sport",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2021-10-15"
+        },
+        {
+            "ID": 273135625,
+            "producer": "Volkswagen",
+            "model": "elektryczny",
+            "rok_produkcji": 1999,
+            "data_przegl\u0105du": "2004-06-28"
+        },
+        {
+            "ID": 770378992,
+            "producer": "Toyota",
+            "model": "sport",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2020-09-30"
+        },
+        {
+            "ID": 573654768,
+            "producer": "BMW",
+            "model": "sedan",
+            "rok_produkcji": 1999,
+            "data_przegl\u0105du": "2019-04-10"
+        },
+        {
+            "ID": 755487266,
+            "producer": "Chevrolet",
+            "model": "SUV",
+            "rok_produkcji": 2017,
+            "data_przegl\u0105du": "2024-05-25"
+        },
+        {
+            "ID": 792074025,
+            "producer": "Mercedes-Benz",
+            "model": "SUV",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2024-09-25"
+        },
+        {
+            "ID": 777313709,
+            "producer": "Chevrolet",
+            "model": "elektryczny",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2013-07-11"
+        },
+        {
+            "ID": 818459778,
+            "producer": "Toyota",
+            "model": "SUV",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2013-07-09"
+        },
+        {
+            "ID": 891816317,
+            "producer": "Ford",
+            "model": "elektryczny",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2011-10-21"
+        },
+        {
+            "ID": 657448164,
+            "producer": "BMW",
+            "model": "luks",
+            "rok_produkcji": 2020,
+            "data_przegl\u0105du": "2024-11-26"
+        },
+        {
+            "ID": 751587971,
+            "producer": "Hyundai",
+            "model": "elektryczny",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2014-12-17"
+        },
+        {
+            "ID": 355308455,
+            "producer": "Audi",
+            "model": "elektryczny",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2024-04-05"
+        },
+        {
+            "ID": 312088035,
+            "producer": "Mercedes-Benz",
+            "model": "luks",
+            "rok_produkcji": 2018,
+            "data_przegl\u0105du": "2022-12-19"
+        },
+        {
+            "ID": 581270330,
+            "producer": "Hyundai",
+            "model": "SUV",
+            "rok_produkcji": 2023,
+            "data_przegl\u0105du": "2024-02-15"
+        },
+        {
+            "ID": 760111130,
+            "producer": "Toyota",
+            "model": "luks",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2022-07-30"
+        },
+        {
+            "ID": 768197708,
+            "producer": "Chevrolet",
+            "model": "elektryczny",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2021-10-19"
+        },
+        {
+            "ID": 608753903,
+            "producer": "Volkswagen",
+            "model": "elektryczny",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2020-06-26"
+        },
+        {
+            "ID": 297578517,
+            "producer": "Volkswagen",
+            "model": "sedan",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2024-06-26"
+        },
+        {
+            "ID": 537651190,
+            "producer": "Honda",
+            "model": "elektryczny",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2016-06-21"
+        },
+        {
+            "ID": 165547968,
+            "producer": "Ford",
+            "model": "sedan",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2018-07-23"
+        },
+        {
+            "ID": 455510419,
+            "producer": "Chevrolet",
+            "model": "SUV",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2018-03-26"
+        },
+        {
+            "ID": 634663152,
+            "producer": "Mercedes-Benz",
+            "model": "luks",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "1999-06-02"
+        },
+        {
+            "ID": 904146852,
+            "producer": "Hyundai",
+            "model": "sport",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2023-05-04"
+        },
+        {
+            "ID": 126792104,
+            "producer": "Chevrolet",
+            "model": "elektryczny",
+            "rok_produkcji": 2022,
+            "data_przegl\u0105du": "2022-07-08"
+        },
+        {
+            "ID": 387828931,
+            "producer": "BMW",
+            "model": "luks",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2016-12-15"
+        },
+        {
+            "ID": 563858492,
+            "producer": "BMW",
+            "model": "luks",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2016-12-07"
+        },
+        {
+            "ID": 412764778,
+            "producer": "BMW",
+            "model": "sedan",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2020-07-21"
+        },
+        {
+            "ID": 188721536,
+            "producer": "Nissan",
+            "model": "sedan",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2024-06-10"
+        },
+        {
+            "ID": 145954049,
+            "producer": "BMW",
+            "model": "sedan",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2018-04-02"
+        },
+        {
+            "ID": 585846652,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2019-12-29"
+        },
+        {
+            "ID": 869598690,
+            "producer": "Volkswagen",
+            "model": "SUV",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2003-09-26"
+        },
+        {
+            "ID": 714304415,
+            "producer": "Toyota",
+            "model": "luks",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2018-09-23"
+        },
+        {
+            "ID": 986982407,
+            "producer": "Hyundai",
+            "model": "elektryczny",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2021-10-26"
+        },
+        {
+            "ID": 776243884,
+            "producer": "Mercedes-Benz",
+            "model": "luks",
+            "rok_produkcji": 2023,
+            "data_przegl\u0105du": "2023-02-18"
+        },
+        {
+            "ID": 935589851,
+            "producer": "Hyundai",
+            "model": "luks",
+            "rok_produkcji": 2010,
+            "data_przegl\u0105du": "2024-09-05"
+        },
+        {
+            "ID": 839762484,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 1991,
+            "data_przegl\u0105du": "2019-06-12"
+        },
+        {
+            "ID": 125187255,
+            "producer": "BMW",
+            "model": "sedan",
+            "rok_produkcji": 1996,
+            "data_przegl\u0105du": "2019-05-08"
+        },
+        {
+            "ID": 950713939,
+            "producer": "Ford",
+            "model": "SUV",
+            "rok_produkcji": 2023,
+            "data_przegl\u0105du": "2023-08-16"
+        },
+        {
+            "ID": 198791729,
+            "producer": "Volkswagen",
+            "model": "sedan",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2015-05-04"
+        },
+        {
+            "ID": 459931844,
+            "producer": "BMW",
+            "model": "sport",
+            "rok_produkcji": 2006,
+            "data_przegl\u0105du": "2014-05-27"
+        },
+        {
+            "ID": 790177623,
+            "producer": "Volkswagen",
+            "model": "sedan",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "2003-11-15"
+        },
+        {
+            "ID": 948820334,
+            "producer": "Toyota",
+            "model": "elektryczny",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2002-01-28"
+        },
+        {
+            "ID": 707772713,
+            "producer": "Toyota",
+            "model": "SUV",
+            "rok_produkcji": 2015,
+            "data_przegl\u0105du": "2019-01-17"
+        },
+        {
+            "ID": 507451295,
+            "producer": "Toyota",
+            "model": "SUV",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2016-08-15"
+        },
+        {
+            "ID": 218789910,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 1990,
+            "data_przegl\u0105du": "2020-04-09"
+        },
+        {
+            "ID": 127836752,
+            "producer": "Audi",
+            "model": "elektryczny",
+            "rok_produkcji": 2022,
+            "data_przegl\u0105du": "2025-01-17"
+        },
+        {
+            "ID": 413226607,
+            "producer": "Ford",
+            "model": "luks",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2016-07-28"
+        },
+        {
+            "ID": 585935905,
+            "producer": "Mercedes-Benz",
+            "model": "luks",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2025-01-04"
+        },
+        {
+            "ID": 286260163,
+            "producer": "BMW",
+            "model": "elektryczny",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "2002-07-05"
+        },
+        {
+            "ID": 324985307,
+            "producer": "Hyundai",
+            "model": "SUV",
+            "rok_produkcji": 2022,
+            "data_przegl\u0105du": "2023-11-08"
+        },
+        {
+            "ID": 310710013,
+            "producer": "Honda",
+            "model": "SUV",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2023-01-15"
+        },
+        {
+            "ID": 876497643,
+            "producer": "Chevrolet",
+            "model": "sedan",
+            "rok_produkcji": 1990,
+            "data_przegl\u0105du": "2007-07-08"
+        },
+        {
+            "ID": 253001529,
+            "producer": "Nissan",
+            "model": "luks",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2009-07-31"
+        },
+        {
+            "ID": 101079779,
+            "producer": "Honda",
+            "model": "SUV",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2024-05-07"
+        },
+        {
+            "ID": 378528808,
+            "producer": "Ford",
+            "model": "luks",
+            "rok_produkcji": 1999,
+            "data_przegl\u0105du": "2001-10-14"
+        },
+        {
+            "ID": 977484453,
+            "producer": "Mercedes-Benz",
+            "model": "sport",
+            "rok_produkcji": 2007,
+            "data_przegl\u0105du": "2023-10-17"
+        },
+        {
+            "ID": 785996866,
+            "producer": "Chevrolet",
+            "model": "sedan",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "1999-02-03"
+        },
+        {
+            "ID": 132348678,
+            "producer": "Audi",
+            "model": "SUV",
+            "rok_produkcji": 1991,
+            "data_przegl\u0105du": "2002-02-14"
+        },
+        {
+            "ID": 250067276,
+            "producer": "Chevrolet",
+            "model": "luks",
+            "rok_produkcji": 2020,
+            "data_przegl\u0105du": "2022-05-27"
+        },
+        {
+            "ID": 412899587,
+            "producer": "Volkswagen",
+            "model": "sport",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2023-11-05"
+        },
+        {
+            "ID": 640717525,
+            "producer": "Toyota",
+            "model": "sport",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2022-10-02"
+        },
+        {
+            "ID": 248483415,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2024-02-19"
+        },
+        {
+            "ID": 129479283,
+            "producer": "Audi",
+            "model": "SUV",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2004-08-26"
+        },
+        {
+            "ID": 346972772,
+            "producer": "Audi",
+            "model": "sedan",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2019-01-04"
+        },
+        {
+            "ID": 239652239,
+            "producer": "Volkswagen",
+            "model": "sedan",
+            "rok_produkcji": 2009,
+            "data_przegl\u0105du": "2010-04-28"
+        },
+        {
+            "ID": 697798975,
+            "producer": "Toyota",
+            "model": "elektryczny",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2022-04-06"
+        },
+        {
+            "ID": 186126715,
+            "producer": "Chevrolet",
+            "model": "sport",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2022-12-03"
+        },
+        {
+            "ID": 381892690,
+            "producer": "Mercedes-Benz",
+            "model": "elektryczny",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2024-02-21"
+        },
+        {
+            "ID": 717750820,
+            "producer": "Ford",
+            "model": "SUV",
+            "rok_produkcji": 2018,
+            "data_przegl\u0105du": "2024-07-04"
+        },
+        {
+            "ID": 107389142,
+            "producer": "Chevrolet",
+            "model": "luks",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2018-10-12"
+        },
+        {
+            "ID": 815065245,
+            "producer": "Mercedes-Benz",
+            "model": "SUV",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2024-03-26"
+        },
+        {
+            "ID": 523718275,
+            "producer": "Hyundai",
+            "model": "elektryczny",
+            "rok_produkcji": 1994,
+            "data_przegl\u0105du": "1995-06-19"
+        },
+        {
+            "ID": 412198293,
+            "producer": "Nissan",
+            "model": "SUV",
+            "rok_produkcji": 2010,
+            "data_przegl\u0105du": "2011-07-16"
+        },
+        {
+            "ID": 726706255,
+            "producer": "Audi",
+            "model": "sedan",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2014-06-30"
+        },
+        {
+            "ID": 410508910,
+            "producer": "Audi",
+            "model": "elektryczny",
+            "rok_produkcji": 1994,
+            "data_przegl\u0105du": "2000-02-08"
+        },
+        {
+            "ID": 177036359,
+            "producer": "Volkswagen",
+            "model": "luks",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2019-10-04"
+        },
+        {
+            "ID": 209145616,
+            "producer": "BMW",
+            "model": "sport",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2007-05-27"
+        },
+        {
+            "ID": 229042901,
+            "producer": "Mercedes-Benz",
+            "model": "luks",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2024-05-20"
+        },
+        {
+            "ID": 895604059,
+            "producer": "Ford",
+            "model": "elektryczny",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2020-06-17"
+        },
+        {
+            "ID": 939969761,
+            "producer": "Chevrolet",
+            "model": "sport",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2003-04-16"
+        },
+        {
+            "ID": 588537589,
+            "producer": "BMW",
+            "model": "SUV",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2002-02-26"
+        },
+        {
+            "ID": 527400946,
+            "producer": "BMW",
+            "model": "SUV",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2019-09-06"
+        },
+        {
+            "ID": 360977677,
+            "producer": "Audi",
+            "model": "SUV",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2018-08-11"
+        },
+        {
+            "ID": 336434272,
+            "producer": "Audi",
+            "model": "luks",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2019-02-22"
+        },
+        {
+            "ID": 154072655,
+            "producer": "Mercedes-Benz",
+            "model": "SUV",
+            "rok_produkcji": 2009,
+            "data_przegl\u0105du": "2013-11-05"
+        },
+        {
+            "ID": 102663307,
+            "producer": "BMW",
+            "model": "luks",
+            "rok_produkcji": 2018,
+            "data_przegl\u0105du": "2022-08-28"
+        },
+        {
+            "ID": 276359153,
+            "producer": "Honda",
+            "model": "luks",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2022-12-04"
+        },
+        {
+            "ID": 961455639,
+            "producer": "Volkswagen",
+            "model": "sedan",
+            "rok_produkcji": 2018,
+            "data_przegl\u0105du": "2023-10-14"
+        },
+        {
+            "ID": 771603586,
+            "producer": "Hyundai",
+            "model": "sedan",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2024-09-11"
+        },
+        {
+            "ID": 740040451,
+            "producer": "Toyota",
+            "model": "luks",
+            "rok_produkcji": 1994,
+            "data_przegl\u0105du": "1995-06-24"
+        },
+        {
+            "ID": 176556175,
+            "producer": "Nissan",
+            "model": "SUV",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2020-12-24"
+        },
+        {
+            "ID": 172410215,
+            "producer": "Chevrolet",
+            "model": "luks",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "2020-01-19"
+        },
+        {
+            "ID": 949678645,
+            "producer": "BMW",
+            "model": "SUV",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2015-02-05"
+        },
+        {
+            "ID": 301194239,
+            "producer": "Ford",
+            "model": "sedan",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2024-03-18"
+        },
+        {
+            "ID": 235280280,
+            "producer": "Toyota",
+            "model": "elektryczny",
+            "rok_produkcji": 2006,
+            "data_przegl\u0105du": "2023-09-25"
+        },
+        {
+            "ID": 333379729,
+            "producer": "Volkswagen",
+            "model": "SUV",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2008-10-30"
+        },
+        {
+            "ID": 240335372,
+            "producer": "Ford",
+            "model": "sport",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2011-03-29"
+        },
+        {
+            "ID": 382371662,
+            "producer": "Chevrolet",
+            "model": "luks",
+            "rok_produkcji": 1999,
+            "data_przegl\u0105du": "2020-11-01"
+        },
+        {
+            "ID": 803481747,
+            "producer": "Nissan",
+            "model": "luks",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2009-06-03"
+        },
+        {
+            "ID": 507385935,
+            "producer": "Audi",
+            "model": "elektryczny",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2022-10-17"
+        },
+        {
+            "ID": 834273942,
+            "producer": "Volkswagen",
+            "model": "luks",
+            "rok_produkcji": 1990,
+            "data_przegl\u0105du": "2014-02-12"
+        },
+        {
+            "ID": 249243128,
+            "producer": "Hyundai",
+            "model": "sedan",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2016-03-13"
+        },
+        {
+            "ID": 444027573,
+            "producer": "Mercedes-Benz",
+            "model": "sport",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2001-07-27"
+        },
+        {
+            "ID": 141623901,
+            "producer": "Mercedes-Benz",
+            "model": "sport",
+            "rok_produkcji": 2000,
+            "data_przegl\u0105du": "2015-12-13"
+        },
+        {
+            "ID": 249881130,
+            "producer": "Audi",
+            "model": "sport",
+            "rok_produkcji": 2000,
+            "data_przegl\u0105du": "2005-02-12"
+        },
+        {
+            "ID": 176497668,
+            "producer": "BMW",
+            "model": "luks",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2013-08-01"
+        },
+        {
+            "ID": 612139055,
+            "producer": "Hyundai",
+            "model": "sport",
+            "rok_produkcji": 1990,
+            "data_przegl\u0105du": "1999-04-08"
+        },
+        {
+            "ID": 233392857,
+            "producer": "Toyota",
+            "model": "elektryczny",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2021-02-13"
+        },
+        {
+            "ID": 764648161,
+            "producer": "Volkswagen",
+            "model": "luks",
+            "rok_produkcji": 2000,
+            "data_przegl\u0105du": "2002-09-30"
+        },
+        {
+            "ID": 239397806,
+            "producer": "Honda",
+            "model": "sport",
+            "rok_produkcji": 2011,
+            "data_przegl\u0105du": "2022-03-13"
+        }
+    ],
+    "samochody_ciezarowe": [
+        {
+            "ID": 665224491,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2001,
+            "data_przegl\u0105du": "2005-10-23"
+        },
+        {
+            "ID": 898599361,
+            "producer": "Volvo Trucks",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2020-07-01"
+        },
+        {
+            "ID": 813394606,
+            "producer": "Volvo Trucks",
+            "model": "miejskie",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "2015-01-16"
+        },
+        {
+            "ID": 455903989,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2006,
+            "data_przegl\u0105du": "2013-02-02"
+        },
+        {
+            "ID": 375399937,
+            "producer": "Volvo Trucks",
+            "model": "elektryczny",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2018-06-23"
+        },
+        {
+            "ID": 318848267,
+            "producer": "Freightliner",
+            "model": "regionalne",
+            "rok_produkcji": 2016,
+            "data_przegl\u0105du": "2022-12-16"
+        },
+        {
+            "ID": 842630436,
+            "producer": "Kenworth",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2024-08-08"
+        },
+        {
+            "ID": 599639876,
+            "producer": "Scania",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2006-09-19"
+        },
+        {
+            "ID": 265804733,
+            "producer": "Scania",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2023-09-28"
+        },
+        {
+            "ID": 975186363,
+            "producer": "Iveco",
+            "model": "regionalne",
+            "rok_produkcji": 2018,
+            "data_przegl\u0105du": "2019-06-08"
+        },
+        {
+            "ID": 238732760,
+            "producer": "Scania",
+            "model": "miejskie",
+            "rok_produkcji": 1996,
+            "data_przegl\u0105du": "2004-03-08"
+        },
+        {
+            "ID": 914360330,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2017,
+            "data_przegl\u0105du": "2023-09-20"
+        },
+        {
+            "ID": 878340838,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2010-01-12"
+        },
+        {
+            "ID": 637319117,
+            "producer": "Renault Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2010-04-05"
+        },
+        {
+            "ID": 476295492,
+            "producer": "DAF",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 1992,
+            "data_przegl\u0105du": "2002-09-14"
+        },
+        {
+            "ID": 504102988,
+            "producer": "Renault Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2018-10-30"
+        },
+        {
+            "ID": 766302314,
+            "producer": "Scania",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2024-10-27"
+        },
+        {
+            "ID": 789334636,
+            "producer": "DAF",
+            "model": "elektryczny",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "2019-06-05"
+        },
+        {
+            "ID": 972643263,
+            "producer": "Scania",
+            "model": "regionalne",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2020-12-01"
+        },
+        {
+            "ID": 796850226,
+            "producer": "MAN",
+            "model": "elektryczny",
+            "rok_produkcji": 2015,
+            "data_przegl\u0105du": "2019-03-10"
+        },
+        {
+            "ID": 662836583,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 1995,
+            "data_przegl\u0105du": "1995-07-19"
+        },
+        {
+            "ID": 174697743,
+            "producer": "Kenworth",
+            "model": "miejskie",
+            "rok_produkcji": 2017,
+            "data_przegl\u0105du": "2017-10-03"
+        },
+        {
+            "ID": 305784319,
+            "producer": "Kenworth",
+            "model": "regionalne",
+            "rok_produkcji": 2023,
+            "data_przegl\u0105du": "2023-08-03"
+        },
+        {
+            "ID": 563124376,
+            "producer": "Iveco",
+            "model": "elektryczny",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2012-09-16"
+        },
+        {
+            "ID": 739074919,
+            "producer": "Kenworth",
+            "model": "elektryczny",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2010-07-12"
+        },
+        {
+            "ID": 587449120,
+            "producer": "Volvo Trucks",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2007-06-19"
+        },
+        {
+            "ID": 266411310,
+            "producer": "Iveco",
+            "model": "miejskie",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2004-07-03"
+        },
+        {
+            "ID": 958738960,
+            "producer": "Kenworth",
+            "model": "regionalne",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2014-09-27"
+        },
+        {
+            "ID": 254330741,
+            "producer": "MAN",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2022-12-22"
+        },
+        {
+            "ID": 616224456,
+            "producer": "MAN",
+            "model": "regionalne",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2013-04-14"
+        },
+        {
+            "ID": 760406584,
+            "producer": "Renault Trucks",
+            "model": "elektryczny",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2014-01-05"
+        },
+        {
+            "ID": 841008426,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 1996,
+            "data_przegl\u0105du": "2013-02-04"
+        },
+        {
+            "ID": 401738686,
+            "producer": "Scania",
+            "model": "regionalne",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2013-12-05"
+        },
+        {
+            "ID": 183880032,
+            "producer": "Peterbilt",
+            "model": "elektryczny",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2021-09-28"
+        },
+        {
+            "ID": 835205603,
+            "producer": "Volvo Trucks",
+            "model": "miejskie",
+            "rok_produkcji": 2024,
+            "data_przegl\u0105du": "2025-01-13"
+        },
+        {
+            "ID": 802867808,
+            "producer": "Iveco",
+            "model": "miejskie",
+            "rok_produkcji": 2015,
+            "data_przegl\u0105du": "2019-07-04"
+        },
+        {
+            "ID": 251629567,
+            "producer": "Kenworth",
+            "model": "elektryczny",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2020-12-13"
+        },
+        {
+            "ID": 809709292,
+            "producer": "Scania",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2002,
+            "data_przegl\u0105du": "2008-09-01"
+        },
+        {
+            "ID": 242852496,
+            "producer": "Peterbilt",
+            "model": "miejskie",
+            "rok_produkcji": 1997,
+            "data_przegl\u0105du": "2006-09-02"
+        },
+        {
+            "ID": 748528799,
+            "producer": "Iveco",
+            "model": "miejskie",
+            "rok_produkcji": 2008,
+            "data_przegl\u0105du": "2013-06-26"
+        },
+        {
+            "ID": 108638243,
+            "producer": "Renault Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2010,
+            "data_przegl\u0105du": "2016-02-08"
+        },
+        {
+            "ID": 987843832,
+            "producer": "MAN",
+            "model": "miejskie",
+            "rok_produkcji": 2013,
+            "data_przegl\u0105du": "2021-12-24"
+        },
+        {
+            "ID": 367304337,
+            "producer": "Iveco",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 1992,
+            "data_przegl\u0105du": "2011-11-22"
+        },
+        {
+            "ID": 640646678,
+            "producer": "Mercedes-Benz Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2023-10-13"
+        },
+        {
+            "ID": 875709949,
+            "producer": "Kenworth",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2010,
+            "data_przegl\u0105du": "2015-04-11"
+        },
+        {
+            "ID": 747187636,
+            "producer": "Volvo Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 2005,
+            "data_przegl\u0105du": "2005-08-15"
+        },
+        {
+            "ID": 101197949,
+            "producer": "Freightliner",
+            "model": "regionalne",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2001-05-27"
+        },
+        {
+            "ID": 822268722,
+            "producer": "DAF",
+            "model": "regionalne",
+            "rok_produkcji": 2019,
+            "data_przegl\u0105du": "2019-10-07"
+        },
+        {
+            "ID": 251228529,
+            "producer": "Scania",
+            "model": "elektryczny",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2005-11-13"
+        },
+        {
+            "ID": 577699762,
+            "producer": "MAN",
+            "model": "miejskie",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2022-07-01"
+        },
+        {
+            "ID": 729616476,
+            "producer": "DAF",
+            "model": "miejskie",
+            "rok_produkcji": 1990,
+            "data_przegl\u0105du": "1998-09-23"
+        },
+        {
+            "ID": 595708771,
+            "producer": "Scania",
+            "model": "miejskie",
+            "rok_produkcji": 2014,
+            "data_przegl\u0105du": "2024-06-05"
+        },
+        {
+            "ID": 999321024,
+            "producer": "Mercedes-Benz Trucks",
+            "model": "regionalne",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2013-06-25"
+        },
+        {
+            "ID": 276108456,
+            "producer": "Mercedes-Benz Trucks",
+            "model": "miejskie",
+            "rok_produkcji": 2023,
+            "data_przegl\u0105du": "2024-05-26"
+        },
+        {
+            "ID": 936060469,
+            "producer": "Mercedes-Benz Trucks",
+            "model": "d\u0142ugodystansowe",
+            "rok_produkcji": 2003,
+            "data_przegl\u0105du": "2018-08-25"
+        },
+        {
+            "ID": 227719702,
+            "producer": "MAN",
+            "model": "elektryczny",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2017-07-11"
+        }
+    ],
+    "statki": [
+        {
+            "ID": 981055660,
+            "producer": "MHI",
+            "model": "masowiec",
+            "rok_produkcji": 2017,
+            "data_przegl\u0105du": "2024-11-15"
+        },
+        {
+            "ID": 867371314,
+            "producer": "Navantia",
+            "model": "kontenerowiec",
+            "rok_produkcji": 2010,
+            "data_przegl\u0105du": "2014-12-28"
+        },
+        {
+            "ID": 445540496,
+            "producer": "Navantia",
+            "model": "masowiec",
+            "rok_produkcji": 1998,
+            "data_przegl\u0105du": "2020-12-16"
+        }
+    ],
+    "samoloty": [
+        {
+            "ID": 769563172,
+            "producer": "Cessna",
+            "model": "szerokokad\u0142ubowy",
+            "rok_produkcji": 1993,
+            "data_przegl\u0105du": "2008-03-06"
+        },
+        {
+            "ID": 782107030,
+            "producer": "Embraer",
+            "model": "transportowy",
+            "rok_produkcji": 2022,
+            "data_przegl\u0105du": "2024-12-01"
+        },
+        {
+            "ID": 749721479,
+            "producer": "Antonov",
+            "model": "regionalny",
+            "rok_produkcji": 2004,
+            "data_przegl\u0105du": "2024-04-18"
+        },
+        {
+            "ID": 342447126,
+            "producer": "Embraer",
+            "model": "w\u0105skokad\u0142ubowy",
+            "rok_produkcji": 2009,
+            "data_przegl\u0105du": "2012-04-20"
+        },
+        {
+            "ID": 546263798,
+            "producer": "Embraer",
+            "model": "szerokokad\u0142ubowy",
+            "rok_produkcji": 2021,
+            "data_przegl\u0105du": "2023-05-02"
+        }
+    ],
+    "rowery": [
+        {
+            "ID": 820653404,
+            "producer": "HARO",
+            "model": "Dirt/Street",
+            "rok_produkcji": 2012,
+            "data_przegl\u0105du": "2014-08-02"
+        }
+    ]
+}
