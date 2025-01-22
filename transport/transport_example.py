@@ -4,27 +4,27 @@ import json
 class Transport:
     TRANSPORT_TYPE = None
     TECH_IN_PERIOD = None
-    reg_number = None
+    registration_number = None
     manufacturing_date = None
     registration_date = None
     tech_in_dates = []
     last_tech_in_days = 0
     DATE_FORMAT = "%d.%m.%Y"
 
-    def __init__(self, reg_number):
+    def __init__(self, registration_number):
         db_data_json = open(self.TRANSPORT_TYPE + '.json')
         transport_data = json.load(db_data_json)
         db_data_json.close()
 
-        if reg_number in transport_data.keys():
-            self.reg_number = reg_number
-            self.manufacturing_date = transport_data[reg_number]['manufacturing_date']
-            self.registration_date = transport_data[reg_number]['registration_date']
-            self.tech_in_dates = transport_data[reg_number]['tech_in_dates']
+        if registration_number in transport_data.keys():
+            self.registration_number = registration_number
+            self.manufacturing_date = transport_data[registration_number]['manufacturing_date']
+            self.registration_date = transport_data[registration_number]['registration_date']
+            self.tech_in_dates = transport_data[registration_number]['tech_in_dates']
             self.tech_in_dates.sort(key=lambda x: datetime.datetime.strptime(x, self.DATE_FORMAT), reverse=True)
             self.set_last_tech_in_days()
         else:
-            print('Invalid registration number', reg_number)
+            print('Invalid registration number', registration_number)
 
     def set_last_tech_in_days(self):
         last_TI_date = datetime.datetime.strptime(self.tech_in_dates[0], self.DATE_FORMAT)
@@ -39,9 +39,9 @@ class Transport:
     def print_transport_info(self, number = 0):
         indent = '~'
         if number == 0:
-            print(indent, 'Registration number:      ', self.reg_number)
+            print(indent, 'Registration number:      ', self.registration_number)
         else:
-            print(number, 'Registration number:      ', self.reg_number)
+            print(number, 'Registration number:      ', self.registration_number)
 
         print(indent, 'Manufacturing date:       ', self.manufacturing_date)
         print(indent, 'Registration date:        ', self.manufacturing_date)
@@ -79,7 +79,7 @@ print()
 
 for index, reg_number in enumerate(auto_reg_numbers):
     auto = Automobile(reg_number)
-    if auto.reg_number:
+    if auto.registration_number:
         auto.print_transport_info(index + 1)
 
 print('Plains:')
@@ -87,7 +87,7 @@ print()
 
 for index, reg_number in enumerate(plain_reg_numbers):
     plain = Plain(reg_number)
-    if plain.reg_number:
+    if plain.registration_number:
         plain.print_transport_info(index + 1)
 
 print('Boats:')
@@ -95,5 +95,5 @@ print()
 
 for index, reg_number in enumerate(boat_reg_numbers):
     boat = Boat(reg_number)
-    if boat.reg_number:
+    if boat.registration_number:
         boat.print_transport_info(index + 1)
