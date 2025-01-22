@@ -16,9 +16,9 @@ def generate_transport_data(num_entries):
     transport_data = {}
     for i in range(num_entries):
         reg_number = f'{random.randint(1000000000, 9999999999)}'  # Losowy numer rejestracyjny
-        manufacturing_date = random_date(1970, 2022)
-        registration_date = random_date(1970, 2022)
-        tech_in_dates = [random_date(1970, 2024) for _ in range(random.randint(3, 6))]
+        manufacturing_date = random_date(1970, 2020)
+        registration_date = random_date(2020, 2024)
+        tech_in_dates = [random_date(2020, 2024) for _ in range(random.randint(3, 6))]
         transport_data[reg_number] = {
             "manufacturing_date": manufacturing_date,
             "registration_date": registration_date,

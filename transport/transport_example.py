@@ -37,23 +37,22 @@ class Transport:
 
     def print_transport_info(self, number=0):
         indent = '~'
-        if number == 0:
-            print(indent, 'Registration number:      ', self.__registration_number)
-        else:
-            print(number, 'Registration number:      ', self.__registration_number)
+        if number != 0:
+            print('#' + str(number))
 
-        print(indent, 'Manufacturing date:       ', self.__manufacturing_date)
-        print(indent, 'Registration date:        ', self.__registration_date)
-        print(indent, 'Last Tech In date:        ', self.__tech_in_dates[0])
-        print(indent, 'After last Tech In:       ', self.__last_tech_in_days, 'days')
-        print(indent, 'Tech In period:           ', self.get_tech_in_period(), 'days')
+        print(indent, 'Registration number:\t', self.__registration_number)
+        print(indent, 'Manufacturing date:\t', self.__manufacturing_date)
+        print(indent, 'Registration date:\t', self.__registration_date)
+        print(indent, 'Last Tech In date:\t', self.__tech_in_dates[0])
+        print(indent, 'After last Tech In:\t', self.__last_tech_in_days, 'days')
+        print(indent, 'Tech In period:\t\t', self.get_tech_in_period(), 'days')
 
         if self.needs_tech_in():
             needs_tech_in = 'Yes'
         else:
             needs_tech_in = 'No'
 
-        print(indent, 'Tech In needed:           ', needs_tech_in)
+        print(indent, 'Tech In needed:\t\t', needs_tech_in)
         print()
 
     def get_registration_number(self):
@@ -119,7 +118,7 @@ class Plane(Transport):
 
 class Bicycle(Transport):
     __TRANSPORT_TYPE = 'bicycle'
-    __TECH_IN_PERIOD = 30
+    __TECH_IN_PERIOD = 730
 
     def __init__(self, registration_number):
         Transport.__init__(self, registration_number)
@@ -185,7 +184,7 @@ bicycle_reg_numbers_json = open('bicycle.json')
 bicycle_reg_numbers_data = json.load(bicycle_reg_numbers_json)
 bicycle_reg_numbers = bicycle_reg_numbers_data.keys()
 
-print('Bicycle: \nOnly one of a kind.')
+print('Bicycle: \nOnly one of a kind')
 print()
 
 for index, reg_number in enumerate(bicycle_reg_numbers):
