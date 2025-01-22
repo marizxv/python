@@ -47,7 +47,7 @@ class Transport:
         print(indent, 'Registration date:        ', self.manufacturing_date)
         print(indent, 'Last Tech In date:        ', self.tech_in_dates[0])
         print(indent, 'Days after last Tech In:  ', self.last_tech_in_days)
-        print(indent, 'Tech In period:           ', self.TECH_IN_PERIOD)
+        print(indent, 'Tech In period:           ', self.TECH_IN_PERIOD), 'days'
 
         if self.needs_tech_in():
             needs_tech_in = 'Yes'
