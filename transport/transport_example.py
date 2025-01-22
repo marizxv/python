@@ -2,8 +2,6 @@ import datetime
 import json
 
 class Transport:
-    TRANSPORT_TYPE = None
-    TECH_IN_PERIOD = None
     registration_number = None
     manufacturing_date = None
     registration_date = None
@@ -12,7 +10,7 @@ class Transport:
     DATE_FORMAT = "%d.%m.%Y"
 
     def __init__(self, registration_number):
-        db_data_json = open(self.TRANSPORT_TYPE + '.json')
+        db_data_json = open(self.get_transport_type() + '.json')
         transport_data = json.load(db_data_json)
         db_data_json.close()
 
@@ -34,7 +32,7 @@ class Transport:
         self.last_tech_in_days = delta.days
 
     def needs_tech_in(self):
-        return self.TECH_IN_PERIOD <= self.last_tech_in_days
+        return self.get_tech_in_period() <= self.last_tech_in_days
 
     def print_transport_info(self, number = 0):
         indent = '~'
@@ -47,7 +45,7 @@ class Transport:
         print(indent, 'Registration date:        ', self.manufacturing_date)
         print(indent, 'Last Tech In date:        ', self.tech_in_dates[0])
         print(indent, 'After last Tech In:       ', self.last_tech_in_days, 'days')
-        print(indent, 'Tech In period:           ', self.TECH_IN_PERIOD, 'days')
+        print(indent, 'Tech In period:           ', self.get_tech_in_period(), 'days')
 
         if self.needs_tech_in():
             needs_tech_in = 'Yes'
@@ -57,17 +55,49 @@ class Transport:
         print(indent, 'Tech In needed:           ', needs_tech_in)
         print()
 
+    def get_transport_type(self):
+        return '' # get_transport_type must be overridden in child class
+    def get_tech_in_period(self):
+        return 0 # get_tech_in_period must be overridden in child class
+
 class Automobile(Transport):
-    TRANSPORT_TYPE = 'automobile'
-    TECH_IN_PERIOD = 365
+    __TRANSPORT_TYPE = 'automobile'
+    __TECH_IN_PERIOD = 365
+
+    def __init__(self, registration_number):
+        Transport.__init__(self, registration_number)
+
+    def get_transport_type(self):
+        return self.__TRANSPORT_TYPE
+
+    def get_tech_in_period(self):
+        return self.__TECH_IN_PERIOD
 
 class Boat(Transport):
-    TRANSPORT_TYPE = 'boat'
-    TECH_IN_PERIOD = 160
+    __TRANSPORT_TYPE = 'boat'
+    __TECH_IN_PERIOD = 160
+
+    def __init__(self, registration_number):
+        Transport.__init__(self, registration_number)
+
+    def get_transport_type(self):
+        return self.__TRANSPORT_TYPE
+
+    def get_tech_in_period(self):
+        return self.__TECH_IN_PERIOD
 
 class Plain(Transport):
-    TRANSPORT_TYPE = 'plain'
-    TECH_IN_PERIOD = 30
+    __TRANSPORT_TYPE = 'plain'
+    __TECH_IN_PERIOD = 30
+
+    def __init__(self, registration_number):
+        Transport.__init__(self, registration_number)
+
+    def get_transport_type(self):
+        return self.__TRANSPORT_TYPE
+
+    def get_tech_in_period(self):
+        return self.__TECH_IN_PERIOD
 
 auto_reg_numbers = ['1111111111', '1111111112', '1111111113']
 plain_reg_numbers = ['2111111111', '2111111112', '2111111113']
