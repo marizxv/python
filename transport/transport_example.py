@@ -129,9 +129,9 @@ class Bicycle(Transport):
     def get_tech_in_period(self):
         return self.__TECH_IN_PERIOD
 
-auto_reg_numbers_json = open('automobile.json')
-auto_reg_numbers_data = json.load(auto_reg_numbers_json)
-auto_reg_numbers = auto_reg_numbers_data.keys()
+with open('automobile.json', 'r') as file_data:
+    auto_reg_numbers_data = json.load(file_data)
+    auto_reg_numbers = auto_reg_numbers_data.keys()
 
 print()
 print('Automobiles:')
@@ -142,11 +142,10 @@ for index, reg_number in enumerate(auto_reg_numbers):
     if auto.get_registration_number():
         auto.print_transport_info(index + 1)
 
-truck_reg_numbers_json = open('truck.json')
-truck_reg_numbers_data = json.load(truck_reg_numbers_json)
-truck_reg_numbers = truck_reg_numbers_data.keys()
+with open('truck.json', 'r') as file_data:
+    truck_reg_numbers_data = json.load(file_data)
+    truck_reg_numbers = truck_reg_numbers_data.keys()
 
-print()
 print('Trucks:')
 print()
 
@@ -155,9 +154,9 @@ for index, reg_number in enumerate(truck_reg_numbers):
     if truck.get_registration_number():
         truck.print_transport_info(index + 1)
 
-aviation_reg_numbers_json = open('plane.json')
-aviation_reg_numbers_data = json.load(aviation_reg_numbers_json)
-aviation_reg_numbers = aviation_reg_numbers_data.keys()
+with open('plane.json', 'r') as file_data:
+    aviation_reg_numbers_data = json.load(file_data)
+    aviation_reg_numbers = aviation_reg_numbers_data.keys()
 
 print('Planes:')
 print()
@@ -167,9 +166,9 @@ for index, reg_number in enumerate(aviation_reg_numbers):
     if plane.get_registration_number():
         plane.print_transport_info(index + 1)
 
-ship_reg_numbers_json = open('ship.json')
-ship_reg_numbers_data = json.load(ship_reg_numbers_json)
-ship_reg_numbers = ship_reg_numbers_data.keys()
+with open('ship.json', 'r') as file_data:
+    ship_reg_numbers_data = json.load(file_data)
+    ship_reg_numbers = ship_reg_numbers_data.keys()
 
 print('Ships:')
 print()
@@ -179,10 +178,9 @@ for index, reg_number in enumerate(ship_reg_numbers):
     if ship.get_registration_number():
         ship.print_transport_info(index + 1)
 
-
-bicycle_reg_numbers_json = open('bicycle.json')
-bicycle_reg_numbers_data = json.load(bicycle_reg_numbers_json)
-bicycle_reg_numbers = bicycle_reg_numbers_data.keys()
+with open('bicycle.json', 'r') as file_data:
+    bicycle_reg_numbers_data = json.load(file_data)
+    bicycle_reg_numbers = bicycle_reg_numbers_data.keys()
 
 print('Bicycle: \nOnly one of a kind')
 print()
