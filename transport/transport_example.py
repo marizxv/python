@@ -10,7 +10,8 @@ class Transport:
     __DATE_FORMAT = "%d.%m.%Y"
 
     def __init__(self, registration_number):
-        db_data_json = open(self.get_transport_type() + '.json')
+        transport_type = self.get_transport_type()         # Dynamiczne otwieranie pliku w zależności od typu transportu
+        db_data_json = open(f'{transport_type}.json')
         transport_data = json.load(db_data_json)
         db_data_json.close()
 
@@ -34,7 +35,7 @@ class Transport:
     def needs_tech_in(self):
         return self.get_tech_in_period() <= self.__last_tech_in_days
 
-    def print_transport_info(self, number = 0):
+    def print_transport_info(self, number=0):
         indent = '~'
         if number == 0:
             print(indent, 'Registration number:      ', self.__registration_number)
@@ -42,7 +43,7 @@ class Transport:
             print(number, 'Registration number:      ', self.__registration_number)
 
         print(indent, 'Manufacturing date:       ', self.__manufacturing_date)
-        print(indent, 'Registration date:        ', self.__manufacturing_date)
+        print(indent, 'Registration date:        ', self.__registration_date)
         print(indent, 'Last Tech In date:        ', self.__tech_in_dates[0])
         print(indent, 'After last Tech In:       ', self.__last_tech_in_days, 'days')
         print(indent, 'Tech In period:           ', self.get_tech_in_period(), 'days')
@@ -59,9 +60,10 @@ class Transport:
         return self.__registration_number
 
     def get_transport_type(self):
-        return '' # get_transport_type must be overridden in child class
+        return ''  # get_transport_type must be overridden in child class
+
     def get_tech_in_period(self):
-        return 0 # get_tech_in_period must be overridden in child class
+        return 0  # get_tech_in_period must be overridden in child class
 
 class Automobile(Transport):
     __TRANSPORT_TYPE = 'automobile'
@@ -76,8 +78,21 @@ class Automobile(Transport):
     def get_tech_in_period(self):
         return self.__TECH_IN_PERIOD
 
-class Boat(Transport):
-    __TRANSPORT_TYPE = 'boat'
+class Truck(Transport):
+    __TRANSPORT_TYPE = 'truck'
+    __TECH_IN_PERIOD = 365
+
+    def __init__(self, registration_number):
+        Transport.__init__(self, registration_number)
+
+    def get_transport_type(self):
+        return self.__TRANSPORT_TYPE
+
+    def get_tech_in_period(self):
+        return self.__TECH_IN_PERIOD
+
+class Ship(Transport):
+    __TRANSPORT_TYPE = 'ship'
     __TECH_IN_PERIOD = 160
 
     def __init__(self, registration_number):
@@ -89,8 +104,8 @@ class Boat(Transport):
     def get_tech_in_period(self):
         return self.__TECH_IN_PERIOD
 
-class Plain(Transport):
-    __TRANSPORT_TYPE = 'plain'
+class Plane(Transport):
+    __TRANSPORT_TYPE = 'plane'
     __TECH_IN_PERIOD = 30
 
     def __init__(self, registration_number):
@@ -102,9 +117,22 @@ class Plain(Transport):
     def get_tech_in_period(self):
         return self.__TECH_IN_PERIOD
 
-auto_reg_numbers = ['1111111111', '1111111112', '1111111113']
-plain_reg_numbers = ['2111111111', '2111111112', '2111111113']
-boat_reg_numbers = ['3111111111', '3111111112', '3111111113']
+class Bicycle(Transport):
+    __TRANSPORT_TYPE = 'bicycle'
+    __TECH_IN_PERIOD = 30
+
+    def __init__(self, registration_number):
+        Transport.__init__(self, registration_number)
+
+    def get_transport_type(self):
+        return self.__TRANSPORT_TYPE
+
+    def get_tech_in_period(self):
+        return self.__TECH_IN_PERIOD
+
+auto_reg_numbers_json = open('automobile.json')
+auto_reg_numbers_data = json.load(auto_reg_numbers_json)
+auto_reg_numbers = auto_reg_numbers_data.keys()
 
 print()
 print('Automobiles:')
@@ -115,18 +143,53 @@ for index, reg_number in enumerate(auto_reg_numbers):
     if auto.get_registration_number():
         auto.print_transport_info(index + 1)
 
-print('Plains:')
+truck_reg_numbers_json = open('truck.json')
+truck_reg_numbers_data = json.load(truck_reg_numbers_json)
+truck_reg_numbers = truck_reg_numbers_data.keys()
+
+print()
+print('Trucks:')
 print()
 
-for index, reg_number in enumerate(plain_reg_numbers):
-    plain = Plain(reg_number)
-    if plain.get_registration_number():
-        plain.print_transport_info(index + 1)
+for index, reg_number in enumerate(truck_reg_numbers):
+    truck = Truck(reg_number)
+    if truck.get_registration_number():
+        truck.print_transport_info(index + 1)
 
-print('Boats:')
+aviation_reg_numbers_json = open('plane.json')
+aviation_reg_numbers_data = json.load(aviation_reg_numbers_json)
+aviation_reg_numbers = aviation_reg_numbers_data.keys()
+
+print('Planes:')
 print()
 
-for index, reg_number in enumerate(boat_reg_numbers):
-    boat = Boat(reg_number)
-    if boat.get_registration_number():
-        boat.print_transport_info(index + 1)
+for index, reg_number in enumerate(aviation_reg_numbers):
+    plane = Plane(reg_number)
+    if plane.get_registration_number():
+        plane.print_transport_info(index + 1)
+
+ship_reg_numbers_json = open('ship.json')
+ship_reg_numbers_data = json.load(ship_reg_numbers_json)
+ship_reg_numbers = ship_reg_numbers_data.keys()
+
+print('Ships:')
+print()
+
+for index, reg_number in enumerate(ship_reg_numbers):
+    ship = Ship(reg_number)
+    if ship.get_registration_number():
+        ship.print_transport_info(index + 1)
+
+
+bicycle_reg_numbers_json = open('bicycle.json')
+bicycle_reg_numbers_data = json.load(bicycle_reg_numbers_json)
+bicycle_reg_numbers = bicycle_reg_numbers_data.keys()
+
+print('Bicycle: \nOnly one of a kind.')
+print()
+
+for index, reg_number in enumerate(bicycle_reg_numbers):
+    bicycle = Bicycle(reg_number)
+    if bicycle.get_registration_number():
+        bicycle.print_transport_info(index + 1)
+
