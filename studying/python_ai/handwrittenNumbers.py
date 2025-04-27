@@ -90,5 +90,6 @@ class DrawingApp:
         return np.all(np_image == 255)
 
 root = tk.Tk() #creates the window to work in
+root.eval('tk::PlaceWindow . center')
 app = DrawingApp(root) #passes window to DrawingApp class
 root.mainloop() #starts tkinter even loop
