@@ -10,9 +10,10 @@ class DrawingApp:
         self.master.title("Handwritten_Text(28x28)")
 
         self.canvas_size = 280 # size is 280x280 pixels for convenience
-        self.canvas = tk.Canvas(master, bg = "white",
-                                width=self.canvas_size,
-                                height=self.canvas_size) #creates canvas
+        self.canvas = tk.Canvas(master,
+                                bg = "white",
+                                width = self.canvas_size,
+                                height = self.canvas_size) #creates canvas
         self.image = Image.new("L",
                                (self.canvas_size, self.canvas_size),
                                255) #creates an image in memory, we don't directly interact with it yet
@@ -91,5 +92,6 @@ class DrawingApp:
 
 root = tk.Tk() #creates the window to work in
 root.eval('tk::PlaceWindow . center')
+root.attributes('-topmost',True)  #for starting toplevel window on macOS
 app = DrawingApp(root) #passes window to DrawingApp class
 root.mainloop() #starts tkinter even loop
